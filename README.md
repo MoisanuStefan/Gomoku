@@ -7,7 +7,7 @@ A strategy board game implemented for Artificial Intelligence course:</br>
   - Provide 3 levels of difficulty with 3 different AI strategies (algorithms, heurisitics)
   - On player turn provide move suggestions
 
-**Programming Language**: Python with tkinter package from Tk GUI toolkit</br>
+**Programming Language**: Python with tkinter package from Tk GUI toolkit</br></br>
 **AI concepts**:
   - Computer moves randomly for level 1
   - For level 2 and 3: 2 heuristics that assign a score to the board state depending on open and potential future winning positions of both players
